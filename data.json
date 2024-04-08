@@ -1,0 +1,30 @@
+{
+    "users" : {
+        "test" : {
+            "password" : 123,
+            "total" : 12000,
+            "month" : 2400,
+            "goal" : 20000,
+            "income" : 6000,
+            "education" : "UG",
+            "information" : {
+                "age" : 20,
+                "since" : 2024,
+                "gender" : "Male",
+                "score" : 80,
+                "first" : "Tester",
+                "last" : "Bot"
+            },
+            "predictions" : {
+                "travel" : 400,
+                "food" : 600,
+                "utilities" : 300,
+                "grocery" : 200,
+                "entertainment" : 400,
+                "medicals" : 0,
+                "savings" : 300,
+                "emergency" : 200
+            }
+        }
+    }
+}
